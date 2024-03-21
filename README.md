@@ -6,6 +6,7 @@ Customers think our products are boring and they don't understand what we are co
 
 ## Challenges
 - Challenge 1
+  -- This is a lower level description of the challenge title...
 - Challenge 2
 - Challenge 3
 - ...
