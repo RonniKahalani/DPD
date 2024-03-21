@@ -5,11 +5,10 @@ This is the front page for the ressources regarding our digital product.
 Customers think our products are boring and they don't understand what we are communicating to them.
 
 ## Challenges
-- Challenge 1
--  This is a lower level description of the challenge title...
+- Challenge 1 - This is a lower level description of the challenge title...
 - Challenge 2
 - Challenge 3
- - ...
+- ...
  
 ### Selected Challenges
 - Challenge 1
