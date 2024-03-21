@@ -4,7 +4,7 @@ This is the front page for the ressources regarding our digital product.
 ## Problem Definition
 Customers think our products are boring and they don't understand what we are communicating to them.
 
-## Challenges
+## Challenges behind the problem statement
 - Challenge 1 - This is a lower level description of the challenge title...
 - Challenge 2
 - Challenge 3
